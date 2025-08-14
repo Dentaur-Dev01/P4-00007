@@ -1,0 +1,1 @@
+cd /home/adent/projects/P4-0007/; g++ -o "/home/adent/projects/P4-0007/bin/ARM/Debug/P4-0007.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack "/home/adent/projects/P4-0007/obj/ARM/Debug/main.o"
